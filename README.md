@@ -12,8 +12,6 @@
 | 4 | `MageFrost.dll` | 171 KB | 2026-03-13 11:43 |
 | 5 | `MonkBrewmaster.dll` | 215 KB | 2026-03-13 11:43 |
 | 6 | `MonkWindwalker.dll` | 162.5 KB | 2026-03-13 11:43 |
-| 7 | `PaladinProtection.dll` | 154.5 KB | 2026-03-12 22:17 |
-| 8 | `PaladinRetribution.dll` | 129.5 KB | 2026-03-12 22:18 |
 | 9 | `RogueOutlaw.dll` | 151 KB | 2026-03-13 11:43 |
 | 10 | `ShamanElemental.dll` | 138 KB | 2026-03-13 11:43 |
 | 11 | `ShamanEnhancement.dll` | 173 KB | 2026-03-13 11:43 |
