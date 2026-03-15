@@ -1,5 +1,15 @@
 ﻿[
     {
+        "Date":  "2026-03-15 12:42",
+        "Items":  [
+                      {
+                          "DllName":  "ShamanElemental_v1.5.0.dll",
+                          "Description":  "Ver:1.5.0 - Stormkeeper Small CD toggle, configurable SK-\u003eASC sync, Tempest binding guard",
+                          "Version":  "v1.5.0"
+                      }
+                  ]
+    },
+    {
         "Date":  "2026-03-15 12:02",
         "Items":  [
                       {
