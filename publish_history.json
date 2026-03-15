@@ -1,5 +1,15 @@
 ﻿[
     {
+        "Date":  "2026-03-15 15:03",
+        "Items":  [
+                      {
+                          "DllName":  "ShamanElemental_v1.5.3.dll",
+                          "Description":  "Ver:1.5.3 - Stormkeeper resync latch, Small CD NS gate, core interrupt toggle fix",
+                          "Version":  "v1.5.3"
+                      }
+                  ]
+    },
+    {
         "Date":  "2026-03-15 12:54",
         "Items":  [
                       {
