@@ -1,5 +1,80 @@
 ﻿[
     {
+        "Date":  "2026-03-16 09:12",
+        "Items":  [
+                      {
+                          "DllName":  "WarlockAffliction_v1.0.0.dll",
+                          "Description":  "Ver:1.0 - Initial Release | Skip TTD in Solo Content",
+                          "Version":  "v1.0.0"
+                      },
+                      {
+                          "DllName":  "DruidBalance_v1.0.0.dll",
+                          "Description":  "Ver:1.0 - Initial Release | Skip TTD in Solo Content",
+                          "Version":  "v1.0.0"
+                      },
+                      {
+                          "DllName":  "HunterBeastmastery_v1.0.0.dll",
+                          "Description":  "Beast Mastery Hunter priority scaffold with Pack Leader and Dark Ranger routing",
+                          "Version":  "v1.0.0"
+                      },
+                      {
+                          "DllName":  "DeathknightBlood_v1.0.0.dll",
+                          "Description":  "Ver:1.0 - Initial Release | Skip TTD in Solo Content",
+                          "Version":  "v1.0.0"
+                      },
+                      {
+                          "DllName":  "MonkBrewmaster_v1.8.0.dll",
+                          "Description":  "Ver:1.8.0 - EK Ungated from CD Phase",
+                          "Version":  "v1.8.0"
+                      },
+                      {
+                          "DllName":  "WarlockDemonology_v1.1.0.dll",
+                          "Description":  "Ver:1.1.0 - Fix DoomGuard timing with Tyrant",
+                          "Version":  "v1.1.0"
+                      },
+                      {
+                          "DllName":  "WarlockDestruction_v1.0.0.dll",
+                          "Description":  "Ver:1.0 - Initial Release | Skip TTD in Solo Content",
+                          "Version":  "v1.0.0"
+                      },
+                      {
+                          "DllName":  "ShamanElemental_v1.5.3.dll",
+                          "Description":  "Ver:1.5.3 - Stormkeeper resync latch, Small CD NS gate, core interrupt toggle fix",
+                          "Version":  "v1.5.3"
+                      },
+                      {
+                          "DllName":  "ShamanEnhancement_v1.0.0.dll",
+                          "Description":  "Totemic Enhancement Shaman reactive priority with snapshot architecture",
+                          "Version":  "v1.0.0"
+                      },
+                      {
+                          "DllName":  "MageFrost_v2.4.0.dll",
+                          "Description":  "Ver:2.4 - Snapshot Frost Mage | Duplicate guard and TTD-aware cooldowns",
+                          "Version":  "v2.4.0"
+                      },
+                      {
+                          "DllName":  "RogueOutlaw_v1.0.1.dll",
+                          "Description":  "Outlaw Rogue reactive priority with snapshot architecture",
+                          "Version":  "v1.0.1"
+                      },
+                      {
+                          "DllName":  "WarriorProtection_v2.2.0.dll",
+                          "Description":  "Protection Warrior - Colossus/Mountain Thane Tank v2.2.0 (Midnight)",
+                          "Version":  "v2.2.0"
+                      },
+                      {
+                          "DllName":  "MonkBrewmasterPulse_v1.0.0.dll",
+                          "Description":  "Brewmaster Monk tank scaffold with snapshot architecture",
+                          "Version":  "v1.0.0"
+                      },
+                      {
+                          "DllName":  "MonkWindwalker_v1.1.0.dll",
+                          "Description":  "Ver:1.1.0 - Debug Framework + Trinket Fix",
+                          "Version":  "v1.1.0"
+                      }
+                  ]
+    },
+    {
         "Date":  "2026-03-15 23:46",
         "Items":  [
                       {
