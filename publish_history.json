@@ -1,5 +1,15 @@
 ﻿[
     {
+        "Date":  "2026-03-15 23:46",
+        "Items":  [
+                      {
+                          "DllName":  "RogueOutlaw_v1.0.1.dll",
+                          "Description":  "Outlaw Rogue reactive priority with snapshot architecture",
+                          "Version":  "v1.0.1"
+                      }
+                  ]
+    },
+    {
         "Date":  "2026-03-15 15:03",
         "Items":  [
                       {
